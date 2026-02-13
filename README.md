@@ -1,13 +1,12 @@
 # Spillutvikling
 
-Tema: Fantasy med moderne våpen --
-Inspo:
-Xcom2
-Fantasy
-Tactical breach wizards (egentlig bare dette)
-Mekanikker:
-Tur basert
-Flis basert bevegelse
-Topp-Down map
-Slå alle fiendene for å vinne uten at dine folk dør
-https://github.com/issues
+Tema: Fantasy med moderne våpen<br/>
+Inspo:<br/>
+Xcom2<br/>
+Fantasy<br/>
+Tactical breach wizards (egentlig bare dette)<br/>
+Mekanikker:<br/>
+Tur basert<br/>
+Flis basert bevegelse<br/>
+Topp-Down map<br/>
+Slå alle fiendene for å vinne uten at dine folk dør<br/>
